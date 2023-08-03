@@ -12,7 +12,7 @@
       time = Number(e.target.value);
     }} />
   </div>
-  <div>2</div>
+  <div>3</div>
 </main>
 
 <style>
